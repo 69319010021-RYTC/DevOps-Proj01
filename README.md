@@ -1,5 +1,5 @@
 # DevOps-Proj01
-Chayanin Aroonchai 
-Wiyadee Wongkaen 0813795734
-Pisarat Srinamuang 
-Nattakritta Somnaichai 
+Chayanin Aroonchai 0623607729
+Wiyadee Wongkaen
+Pisarat Srinamuang
+Nattakritta Somnaichai
